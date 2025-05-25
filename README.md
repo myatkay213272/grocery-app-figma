@@ -4,6 +4,11 @@
 
 This project is a mobile UI design for a grocery shopping app. It includes product listings, categories, ratings, and a fixed "View Basket" bar at the bottom.
 
+
+## 📹 Video Demo
+
+[![Watch the preview](VideoClip.MOV)
+
 ## 📸 Preview
 
 ![Screenshot](homeOne.png)
@@ -13,9 +18,6 @@ This project is a mobile UI design for a grocery shopping app. It includes produ
 
 
 
-## 📹 Video Demo
-
-[![Watch the preview](VideoClip.MOV)
 
 ## 📁 Features
 

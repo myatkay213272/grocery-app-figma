@@ -17,6 +17,8 @@ This project is a mobile UI design for a grocery shopping app. It includes produ
 ![Screenshot](home1.png)
 ![Screenshot](home2.png)
 ![Screenshot](home3.png)
+![Screenshot](home4.png)
+![Screenshot](home5.png)
 
 
 
